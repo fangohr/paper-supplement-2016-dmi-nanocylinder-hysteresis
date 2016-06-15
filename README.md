@@ -3,7 +3,7 @@
 This repository provides the supplementary material to the paper _"Hysteresis of nanocyclinders with Dzyaloshinskii-Moriya intereaction"_.
 
 Included in the repository are the data files used to produce the figures found in the paper as well as Jupyter notebooks to reproduce them.
-The latest version of this notebook can be found at https://github.com/fangohr/paper-supplement-2016-dmi-nanocylinder-hysteresis
+The latest version of this notebook can be found at https://github.com/fangohr/paper-supplement-2016-dmi-nanocylinder-hysteresis .
 
 ----------
 
