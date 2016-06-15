@@ -21,5 +21,5 @@ On Github you can view them directly in your browser:
 - [Figure 2: Hysteresis phase diagrams] (.notebooks/figure-2-hysteresis-phase-diagrams.ipynb)
 
 The raw data can be found in the directory `data/figure_*', where * is either 1 or 2 corresponding the relevant figure number.
-Various data types are found in these directories - explanations of them can be found in the notebook, TODO.
+Various data types are found in these directories - explanations of them can be found in the notebook, [data-format-explanations] (.notebooks/data-format-explanations.ipynb)
 
