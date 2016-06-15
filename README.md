@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/20165/fangohr/paper-supplement-2016-dmi-nanocylinder-hysteresis.svg)](https://zenodo.org/badge/latestdoi/20165/fangohr/paper-supplement-2016-dmi-nanocylinder-hysteresis)
+
 # Hysteresis of nanocyclinders with Dzyaloshinskii-Moriya interaction: supplementary material
 
 This repository provides the supplementary material to the paper _"Hysteresis of nanocyclinders with Dzyaloshinskii-Moriya intereaction"_.
