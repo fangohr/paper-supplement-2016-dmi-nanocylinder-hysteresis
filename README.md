@@ -27,3 +27,6 @@ The PDFs generated from these notebooks are also included in this repository. Th
 The raw data can be found in the directory `data/figure_*/`, where * is either 1 or 2 corresponding the relevant figure number.
 Various data types are found in these directories - explanations of them can be found in the notebook, [data-format-explanations] (notebooks/data-format-explanations.ipynb)
 
+##Acknowledgements
+
+We acknowledge financial support from EPSRC's DTC grant EP/G03690X/1.
